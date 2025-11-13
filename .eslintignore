@@ -1,0 +1,5 @@
+!.*rc.js
+.cache
+/build/**
+/dist/**
+node_modules/**

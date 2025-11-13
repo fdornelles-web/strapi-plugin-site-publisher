@@ -1,0 +1,6 @@
+
+/**
+ * Export `destroy`.
+ */
+
+export default () => {};

@@ -1,0 +1,6 @@
+
+/**
+ * Export `register`.
+ */
+
+export default () => {};
